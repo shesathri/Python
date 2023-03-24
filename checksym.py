@@ -47,3 +47,4 @@ else:
     print("\nInvalid matrix")
 
 print("Hih helo!!")
+print("bye")
