@@ -48,3 +48,5 @@ else:
 
 print("Hih helo!!")
 print("bye")
+print("Hih helo!!")
+print("bye")
