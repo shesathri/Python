@@ -45,3 +45,5 @@ if m == n:
         print("Not a magic matrix")
 else:
     print("\nInvalid matrix")
+
+print("Hih helo!!")
